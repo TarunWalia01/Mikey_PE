@@ -1,29 +1,3 @@
-*{
-  background-color: rgb(61, 190, 250);
-  font-style: oblique;
-  font-size: 20px;
-}
-
-.para{
-  color: rgb(0, 255, 13);
-  font-size: 30px;
-  font-weight: 600;
-
-}
-.deleteBtn{
-  color: rgb(241, 237, 237);
-}
-.inc{
-  background-color: rgb(224, 226, 229);
-  color: black;
-}
-.dec{
-  background-color: rgb(173, 176, 180);
-  color: black;
-}
-.enter{
-  color: rgb(253, 0, 0);
-}
 
 #root {
   max-width: 1280px;

@@ -5,8 +5,8 @@ import Counter from './Counter'
 export default function App() {
   return (
     <div class="app">
-      {/* <EventToDo /> */}
-      <Counter />
+      <EventToDo />
+      {/* <Counter /> */}
     </div>
     )
 
